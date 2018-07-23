@@ -1,7 +1,7 @@
 # spline-granger-causality
-A procedure to reduce the parameters estimate in Granger-causal analysis through temporal smoothing.
+A procedure to reduce the parameters estimated in Granger-causal analysis through temporal smoothing.
 
-Code to infer networks using a modified version of conditional Granger causality as described in <i> A procedure to increase power of Granger-causal analysis through temporal smoothing</i>.
+Code to infer networks using a modified version of conditional Granger causality as described in this manuscript: [A procedure to increase power of Granger-causal analysis through temporal smoothing](https://doi.org/10.1016/j.jneumeth.2018.07.010).
 
 Must have [MVGC Multivariate Granger Causality toolbox](http://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html) to run as implemented in:
 
